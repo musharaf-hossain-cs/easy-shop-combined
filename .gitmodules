@@ -1,0 +1,6 @@
+[submodule "easy-shop-frontend"]
+	path = easy-shop-frontend
+	url = https://github.com/musharaf-hossain-cs/easy-shop-frontend.git
+[submodule "easy-shop-backend"]
+	path = easy-shop-backend
+	url = https://github.com/musharaf-hossain-cs/easy-shop-backend.git
